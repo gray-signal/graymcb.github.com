@@ -1,7 +1,7 @@
 ---
 layout: page
 title: home
-tagline: thoughts from gray here
+tagline: thoughts from gray, here
 ---
 {% include JB/setup %}
 
