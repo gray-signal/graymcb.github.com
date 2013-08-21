@@ -1,7 +1,7 @@
 ---
 layout: page
-title: under construction
-tagline: more from gray here soon
+title: home
+tagline: thoughts from gray here
 ---
 {% include JB/setup %}
 
