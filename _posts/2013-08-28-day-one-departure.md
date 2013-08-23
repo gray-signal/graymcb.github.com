@@ -24,7 +24,7 @@ I was on twitter polling for suggestions on what to do with myself, and I briefl
 
 ![ale house shot?]
 
--- but I thought better of it, at the time, and after reading some, went through security.
+-- but I thought better of it, at the time, and after reading for a bit, I got through security.
 
 ![security, yoga dude]
 
